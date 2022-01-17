@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "izvp_lambda", "izvp_lambda\izvp_lambda.csproj", "{199D5114-F934-4B25-8190-41672BED3DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199D5114-F934-4B25-8190-41672BED3DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199D5114-F934-4B25-8190-41672BED3DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199D5114-F934-4B25-8190-41672BED3DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199D5114-F934-4B25-8190-41672BED3DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3BF632A-0AF4-4024-8A9B-F00D746EBF5E}
+	EndGlobalSection
+EndGlobal
